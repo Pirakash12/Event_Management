@@ -98,7 +98,7 @@ export default function Login() {
           <div className="flex items-center gap-3 mt-4">
             <div className="w-8 h-8 rounded-full bg-indigo-600/40 flex items-center justify-center text-white text-xs font-bold">K</div>
             <div>
-              <div className="text-white/80 text-sm font-medium">Kavindi S.</div>
+              <div className="text-white/80 text-sm font-medium">Pirakash R.</div>
               <div className="text-white/30 text-xs">Club President, IEEE SLIIT</div>
             </div>
           </div>
